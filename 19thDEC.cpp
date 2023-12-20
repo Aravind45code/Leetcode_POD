@@ -1,3 +1,6 @@
+//Here for todays problem of the day ,we sort the array initially and then subtract the first two prices from the 
+// total money.If the operation results in a non negative answer ,we return the answer,or else we return the 
+//original money we have.
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
